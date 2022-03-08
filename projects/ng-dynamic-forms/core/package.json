@@ -28,11 +28,11 @@
     "url": "git+https://github.com/udos86/ng-dynamic-forms.git"
   },
   "peerDependencies": {
-    "@angular/common": "^12.0.0",
-    "@angular/core": "^12.0.0",
-    "@angular/forms": "^12.0.0",
+    "@angular/common": "~13.2.0",
+    "@angular/core": "~13.2.0",
+    "@angular/forms": "~13.2.0",
     "core-js": "^3.8.1",
-    "rxjs": "^6.6.3"
+    "rxjs": "~7.5.0"
   },
   "es2015": "./fesm2015/core.js",
   "esm2015": "./esm2015/core.js",
@@ -41,6 +41,6 @@
   "fesm5": "./fesm5/core.js",
   "sideEffects": false,
   "dependencies": {
-    "tslib": "^2.0.0"
+    "tslib": "^2.3.0"
   }
 }
